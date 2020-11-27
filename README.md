@@ -34,4 +34,8 @@ We strive for
 
 ## Experimentation & Priorities
 
----
+Our strategy revolves around taking open-source frameworks from companies like Tesla or OSVehicle in order to quickly bootstrap ourselves in developing mass-producible zero-emission vehicles. 
+
+For creating our first prototype, we will look to OSVehicle Tabby for our hardware frame to start from. From the Wired, the basic chassis and hardware systems will cost us $12,000. From there, we want to test out and improve upon the software and UI elements. For testing and experimentation, we will look for potential customers to “take it for a spin,” so that we can find the balancing point between comfort and cost. We are going to experiment in finding ways to reduce the price while adding in user-friendly software. The OKR’s or metrics for us to gauge our progress will be how much the car would cost and the user-satisfaction reviews. We intend for this prototype to be a way for our group to assess how well we can push the concept of a super entry-level EV car. 
+
+
