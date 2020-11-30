@@ -28,6 +28,18 @@ We strive for
 
 ---
 
+## Cultural Policy
+
+__
+
+## Core Values
+
+When faced with the question of "How do you want to be thought of?" Viridi Automotives wants to be thought of as a pioneering force pushing for the change and innovation that will lead to a more eco friendly driving experience. We want to be the answer to the question "What does the future look like?"
+
+Our core values are a greener and safer life for all our customers. We strive for a car that is affordable because we believe being a part of the push for green energy should not be a luxury. Our motivations are focused on being a part of improving the driving experience with our eco friendly vehicles, and with our smart cars at a lesser price than other competitors. We want self driving components implemented and extra safety precautions added to our cars for a safer road for every family.
+
+---
+
 ## Ethics Policy
 
 ---
