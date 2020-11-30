@@ -32,7 +32,7 @@ The world is beginning to prioritize solutions for climate change. With the exec
 Michael is a Freshman Computer Science student attending Cal State East Bay. He has been involved in programming courses since high school and is eager to learn about the world of technology. One of Michael’s favorite experiences involved learning about JavaScript and ReactJs to develop and build his own UI.
 
 
-![](IMG_3783.jpg)
+![](images/IMG_3783.jpg)
 ***Geovany Felix***
 
 
