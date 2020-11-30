@@ -6,51 +6,49 @@ This readme provides an overview of our tech startup, plans for the future, and 
 
 ## Business Plan
 
----
-## Long-Term Vision Statement
+### Long-Term Vision Statement
 Our goals include:
 - Becoming a key figure and competitor in pioneering the next era of automotives with clean energy and incorporated "next step" features such as self driving AI
 - Releasing cost effective products to our consumers to make eco friendly cars more affordable and mainstream
+- Helping achieve a lower carbon footprint wherever our business and endeavors take us
 
 Our inspiration stems from:
 - A need to push forward innovation in the automotive industry for a faster transition into eco friendly vehicles
 - The fact that cars with eco friendly aspects and/or new self driving technologies are still a luxury item that we want to normalize
+- Other companies that were the first step towards creating a solution for the betterment of the planet and our ecosystems
 
 Questions we consider:
-- How can we normalize eco friendly car options for drivers?
+- How can we normalize eco friendly car as a viable option for drivers?
 - How can we decrease our carbon footprint to its fullest?
 - What new machine learning advances are essential for a safer road?
 
-## External Opportunities
+### External Opportunities
 The world is beginning to prioritize solutions for climate change. With the executive order by California Gov. Gavin Newsom (D) to only allow gas-emission car sales until 2035, we see an opportunity to compete in the rapidly growing industry that is electric cars. To expedite our company’s R&D, we plan to integrate open source frameworks from the likes of Tesla, AWS, and many more. With the high demand from both the consumer market and government along with the foundations that others have already set, we see an opportunity to rush to market with a viable product and create our identity from the early stages of this rapidly growing market.
 
-## Team Bio
+### Team Bio
 
-## Strategy
+### Strategy
 General Strategy:
 Our strategy revolves around taking notes from the top trends in the electric car industry, refining our products to be as eco-efficient as possible, and delivering a cost-effective car to the common consumer.
 
 OKR (milestones):
-The team has set their milestones high by working towards an increase in sales by 20% annually
+-The team has set their milestones high by working towards an increase in sales by 20% annually
 improvements to battery time by 15% annually. 
 Within 5 years, our team’s central goal is to be the largest distributor of electrical cars in the U.S.
 Within 5 years, we want to reduce our carbon footprint for our manufacturing pipeline by 20%.
 
 Differentiate from other Companies:
-Our unique approach to the market is in mass-production and low costing electrical cars.
+-Our unique approach to the market is in mass-production and low costing electrical cars.
 
 Case Study of Competitor:
-Being based in Silicon Valley, our greatest competitor is Tesla. From Tesla’s history, it is evident that their company is continually achieving higher efficiency in battery life, software, and innovation. By taking some of the frameworks from Tesla’s open-source projects, we hope to refine it and find our place in the market.
+-Being based in Silicon Valley, our greatest competitor is Tesla. From Tesla’s history, it is evident that their company is continually achieving higher efficiency in battery life, software, and innovation. By taking some of the frameworks from Tesla’s open-source projects, we hope to refine it and find our place in the market.
 
-## Slogan
-"The driving force in achieving ststainable energy"
+### Slogan
+***"The driving force in achieving ststainable energy"***
 
 --- 
  
 ## Cultural Policy
-
----
-
 
 ### How do you want to be thought of?
 Viridi Automotives wants to be thought of as a pioneering force pushing for the change and innovation that lead to a more eco friendly driving experience. We what to be the answer to the question "What can the future look like for the normal driver?"
@@ -72,6 +70,9 @@ We strive for
 
 ## Ethics Policy
 
+### Core Items
+
+
 ---
 
 ## Experimentation & Priorities
@@ -83,3 +84,5 @@ Our strategy revolves around taking open-source frameworks from companies like T
 For creating our first prototype, we will look to OSVehicle Tabby for our hardware frame to start from. From OSVehicle Tabby, the basic chassis and hardware systems will cost us $12,000. From there, we will add the necessary components to make it a more "complete car". For testing and experimentation, we will look for potential customers to “take it for a spin,” so that we can find the balancing point between comfort and cost. We are going to experiment in finding ways to reduce the price while adding in user-friendly software. The OKR’s or metrics for us to gauge our progress will be how much the car would cost and the user-satisfaction reviews. We intend for this prototype to be a way for our group to assess how well we can push the concept of a super entry-level EV car. 
 
 Our intial priorities will be to test out the prototypes and frameworks that we pull to see what works and what need further tuning. For example, the overal battery life and general efficiency will be our first component to go under thorough and numerous testing.
+
+---
