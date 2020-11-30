@@ -23,7 +23,7 @@ Questions we consider:
 - What new machine learning advances are essential for a safer road?
 
 ### External Opportunities
-The world is beginning to prioritize solutions for climate change. With the executive order by California Gov. Gavin Newsom (D) to only allow gas-emission car sales until 2035, we see an opportunity to compete in the rapidly growing industry that is electric cars. To expedite our company’s R&D, we plan to integrate open source frameworks from the likes of Tesla, AWS, and many more. With the high demand from both the consumer market and government along with the foundations that others have already set, we see an opportunity to rush to market with a viable product and create our identity from the early stages of this rapidly growing market.
+The world is beginning to prioritize solutions for climate change. With the executive order by California Gov. Gavin Newsom (D) to only allow gas-emission car sales until 2035, we see an opportunity to compete in the rapidly growing industry that is electric cars. To expedite our company’s R&D, we plan to integrate open source frameworks from the likes of Tesla, AWS, and many more. With the high demand from both the consumer market and government along with the foundations that others have already set, we see an opportunity to rush to this space with a viable product and create our identity from the early stages of this rapidly growing market.
 
 ### Team Bio
 ![](images/IMG_1015.jpg)
@@ -55,7 +55,7 @@ Case Study of Competitor:
 - Being based in Silicon Valley, our greatest competitor is Tesla. From Tesla’s history, it is evident that their company is continually achieving higher efficiency in battery life, software, and innovation. By taking some of the frameworks from Tesla’s open-source projects, we hope to refine it and find our place in the market.
 
 ### Slogan
-***"The driving force in achieving ststainable energy"***
+***"The driving force in achieving sutstainable energy"***
 
 --- 
  
