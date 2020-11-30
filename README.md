@@ -1,4 +1,4 @@
-# Viridi
+# Viridi Automotives
 
 This readme provides an overview of our tech startup, plans for the future, and our ethical & cultural standards that we uphold.
 
