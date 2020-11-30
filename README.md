@@ -35,6 +35,8 @@ Michael is a Freshman Computer Science student attending Cal State East Bay. He 
 ![](images/IMG_3783.jpg)
 ***Geovany Felix***
 
+Geovany is a Junior Computer Science student attending Cal State East Bay. Geovany has intermediate knowledge in languages such as C, C++, Python, Java, Assembly, and Haskell. Geovany has participated in lower level self learning algorithms in Assembly and has participated with peer programmers in developing original Hask functions to manage and organize a large amount of inputs in a database.
+
 
 ### Strategy
 General Strategy:
