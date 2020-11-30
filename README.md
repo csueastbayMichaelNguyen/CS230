@@ -40,19 +40,19 @@ Geovany is a Junior Computer Science student attending Cal State East Bay. Geova
 
 ### Strategy
 General Strategy:
-Our strategy revolves around taking notes from the top trends in the electric car industry, refining our products to be as eco-efficient as possible, and delivering a cost-effective car to the common consumer.
+- Our strategy revolves around taking notes from the top trends in the electric car industry, refining our products to be as eco-efficient as possible, and delivering a cost-effective car to the common consumer.
 
 OKR (milestones):
--The team has set their milestones high by working towards an increase in sales by 20% annually
+- The team has set their milestones high by working towards an increase in sales by 20% annually
 improvements to battery time by 15% annually. 
 Within 5 years, our team’s central goal is to be the largest distributor of electrical cars in the U.S.
 Within 5 years, we want to reduce our carbon footprint for our manufacturing pipeline by 20%.
 
 Differentiate from other Companies:
--Our unique approach to the market is in mass-production and low costing electrical cars.
+- Our unique approach to the market is in mass-production and low costing electrical cars.
 
 Case Study of Competitor:
--Being based in Silicon Valley, our greatest competitor is Tesla. From Tesla’s history, it is evident that their company is continually achieving higher efficiency in battery life, software, and innovation. By taking some of the frameworks from Tesla’s open-source projects, we hope to refine it and find our place in the market.
+- Being based in Silicon Valley, our greatest competitor is Tesla. From Tesla’s history, it is evident that their company is continually achieving higher efficiency in battery life, software, and innovation. By taking some of the frameworks from Tesla’s open-source projects, we hope to refine it and find our place in the market.
 
 ### Slogan
 ***"The driving force in achieving ststainable energy"***
