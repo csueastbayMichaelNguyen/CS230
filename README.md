@@ -65,7 +65,11 @@ Case Study of Competitor:
 Viridi Automotives wants to be thought of as a pioneering force pushing for the change and innovation that lead to a more eco friendly driving experience. We what to be the answer to the question "What can the future look like for the normal driver?"
 
 ### What are the core values of the company?
-Our core values are a greener and safer life for all our customers. We strive for a car that is affordable because we believe being a part of the push for green energy should not be a luxury. Our motivations are focused on being a part of improving the driving experience with our eco friendly vehicles, and with our smart cars at a lesser price than other competitors. We want self driving components and extra safety precautions added to our cars for safer roads for every family.
+Our core values are a greener and safer life for all our customers. We strive to build an electric car that is affordable because we believe being a part of the push for green energy should not be a luxury. We are focusing on improving the driving experience and the environment with our eco-friendly cars because we believe that it is a benefit that everyone can enjoy.
+
+One core value that we want to hold internally is a flat organization structure. Through this system, we are enabling each other to push our own passions and ideas to the highest potential. In our structure, every employee no matter what title or background should be treated equally because we believe that lifting each other up will provide an optimal work environment and a better end product.  
+
+We want to prioritize personal development because we believe that supporting our employees' passions will yield higher engagement and motivation in the work they do.
 
 ### Motivation
 As a company, we all share a great passion for developing and innovating bleeding-edge technologies. We believe that modern issues such as climate change can be confronted and resolved with modern solutions. Even our governments are beginning to recognize this threat such as how California's Governor Newsom has announced that the state would phase out gas cars by 2035. With the rising threat and awareness of climate change, we see an oppurtunity to be part of the solution. We understand and fear that our time for complacency is no more and we must take a proactive commitment so that our future generations can continue to enjoy the earth that we see today.
