@@ -26,6 +26,14 @@ Questions we consider:
 The world is beginning to prioritize solutions for climate change. With the executive order by California Gov. Gavin Newsom (D) to only allow gas-emission car sales until 2035, we see an opportunity to compete in the rapidly growing industry that is electric cars. To expedite our company’s R&D, we plan to integrate open source frameworks from the likes of Tesla, AWS, and many more. With the high demand from both the consumer market and government along with the foundations that others have already set, we see an opportunity to rush to market with a viable product and create our identity from the early stages of this rapidly growing market.
 
 ### Team Bio
+![](images/IMG_1015.jpg)
+***Michael Nguyen***
+
+Michael is a Freshman Computer Science student attending Cal State East Bay. He has been involved in programming courses since high school and is eager to learn about the world of technology. One of Michael’s favorite experiences involved learning about JavaScript and ReactJs to develop and build his own UI.
+
+
+![](IMG_3783.jpg)
+***Geovany Felix***
 
 
 ### Strategy
