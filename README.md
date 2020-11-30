@@ -7,8 +7,50 @@ This readme provides an overview of our tech startup, plans for the future, and 
 ## Business Plan
 
 ---
+## Long-Term Vision Statement
+Our goals include:
+- Becoming a key figure and competitor in pioneering the next era of automotives with clean energy and incorporated "next step" features such as self driving AI
+- Releasing cost effective products to our consumers to make eco friendly cars more affordable and mainstream
 
+Our inspiration stems from:
+- A need to push forward innovation in the automotive industry for a faster transition into eco friendly vehicles
+- The fact that cars with eco friendly aspects and/or new self driving technologies are still a luxury item that we want to normalize
+
+Questions we consider:
+- How can we normalize eco friendly car options for drivers?
+- How can we decrease our carbon footprint to its fullest?
+- What new machine learning advances are essential for a safer road?
+
+## External Opportunities
+The world is beginning to prioritize solutions for climate change. With the executive order by California Gov. Gavin Newsom (D) to only allow gas-emission car sales until 2035, we see an opportunity to compete in the rapidly growing industry that is electric cars. To expedite our company’s R&D, we plan to integrate open source frameworks from the likes of Tesla, AWS, and many more. With the high demand from both the consumer market and government along with the foundations that others have already set, we see an opportunity to rush to market with a viable product and create our identity from the early stages of this rapidly growing market.
+
+## Team Bio
+
+## Strategy
+General Strategy:
+Our strategy revolves around taking notes from the top trends in the electric car industry, refining our products to be as eco-efficient as possible, and delivering a cost-effective car to the common consumer.
+
+OKR (milestones):
+The team has set their milestones high by working towards an increase in sales by 20% annually
+improvements to battery time by 15% annually. 
+Within 5 years, our team’s central goal is to be the largest distributor of electrical cars in the U.S.
+Within 5 years, we want to reduce our carbon footprint for our manufacturing pipeline by 20%.
+
+Differentiate from other Companies:
+Our unique approach to the market is in mass-production and low costing electrical cars.
+
+Case Study of Competitor:
+Being based in Silicon Valley, our greatest competitor is Tesla. From Tesla’s history, it is evident that their company is continually achieving higher efficiency in battery life, software, and innovation. By taking some of the frameworks from Tesla’s open-source projects, we hope to refine it and find our place in the market.
+
+## Slogan
+"The driving force in achieving ststainable energy"
+
+--- 
+ 
 ## Cultural Policy
+
+---
+
 
 ### How do you want to be thought of?
 Viridi Automotives wants to be thought of as a pioneering force pushing for the change and innovation that lead to a more eco friendly driving experience. We what to be the answer to the question "What can the future look like for the normal driver?"
@@ -25,18 +67,6 @@ We strive for
 - Excellence
 - Environmental Friendliness
 - Wide Accessibility
-
----
-
-## Cultural Policy
-
-__
-
-## Core Values
-
-When faced with the question of "How do you want to be thought of?" Viridi Automotives wants to be thought of as a pioneering force pushing for the change and innovation that will lead to a more eco friendly driving experience. We want to be the answer to the question "What does the future look like?"
-
-Our core values are a greener and safer life for all our customers. We strive for a car that is affordable because we believe being a part of the push for green energy should not be a luxury. Our motivations are focused on being a part of improving the driving experience with our eco friendly vehicles, and with our smart cars at a lesser price than other competitors. We want self driving components implemented and extra safety precautions added to our cars for a safer road for every family.
 
 ---
 
