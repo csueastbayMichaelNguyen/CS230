@@ -71,7 +71,45 @@ We strive for
 ## Ethics Policy
 
 ### Core Items
+*Become the Solution*
+We prioritize the idea that all our costs and procedures must not contribute to the problem of emissions. This means: 
+- The materials we use are to be ethically sourced
+- We will avoid cutting corners to make profit at the expense of low emission efficiency
+-  Our investors and those we invest in take the message of a greener road to practice not just through their investments, but through their own businesses and endeavors
 
+*Remember Who We Serve*
+- We are striving to create a cost friendly alternative that allows for an easy driving experience without the downsides of traditional gas cars
+- The people we serve are not just wealthy individuals, but low income individuals who want to be a part of the change we will bring
+- We do not tailor our vehicles away from the people with less money, but towards them
+
+*Understand the Power of AI*
+AI can be the leading concept for making our streets safer, but can be problem in the roads if implemented poorly.
+- We will never implement an algorithm that we do not view as functionally 100% in terms of safety
+- Our self learning systems are monitored and updated to ensure every year we become safer
+
+*Respect the Privacy of our Consumers*
+We understand the amount of trust that comes with implementing self learning into an every day use vehicle.
+- We will never conceal what information is gathered from our consumer
+- Driving habits, location, and other information will be opt in only. This information is specifically for understanding the average driver and seeing what may need to change in our vehicles as the road culture changes as well
+
+*Easy Customer Service and Repair*
+- Our parts and vehicles can be serviced by most mechanics
+- Extra precautions will be in place, but we will not become a barrier in allowing for a cheaper, local alternative to any issue the vehicle is experiencing
+
+*Nonnegotiables*
+- In becoming a leading force in the industry, we will not disregard any of the aforementioned policies
+- Our information will have public accessibility. Transparency will take priority in all of our decisions
+- Monetary gain will not become a priority over our service to the people
+
+### Board
+Martin Eberhard
+- As one of the original cofounders of Tesla, his input will prove invaluable in navigating the space of eco friendly vehicles. Eberhard's work with Tesla and Volkswagen demonstrates an ability to contribute in guiding the direction of our company towards our goals.
+
+Ram Pendyala
+- Pendyala is a researcher in transportation systems engineering, design, modeling and simulation, travel behavior analysis, multimodal transport policy analysis, freight and passenger travel demand forecasting, travel survey methods and transportation economics and finance. With such a vast resume of research and information in the changing world of transportation, we hope working with Pendyala will lead to confidence in our vehicles
+
+Dmitri A. Dolgov
+- Dolgov's work with Waymo, an industry changing company in the field of autonomous vehicles, will be able to provide insight on self driving vehicle safety. Furthermore, his input allows for the opportunity to learn from another established company in hopes of creating something new and affordable, but equal efficiency in its eco friendly technologies.
 
 ---
 
